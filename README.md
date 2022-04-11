@@ -9,6 +9,7 @@ run ros:
 run kitti.py:
 
 `cd catkin_ws/src`
+
 `rosrun kitti_tutorial kitti.py`
 
 run rivz to visualization:
